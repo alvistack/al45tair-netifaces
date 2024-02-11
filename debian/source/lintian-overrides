@@ -1,0 +1,5 @@
+python-netifaces source: file-without-copyright-information
+python-netifaces source: no-debian-changes
+python-netifaces source: source-contains-prebuilt-windows-binary
+python-netifaces source: source-is-missing
+python-netifaces source: source-package-encodes-python-version

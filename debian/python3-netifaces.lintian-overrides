@@ -1,0 +1,4 @@
+python3-netifaces: copyright-without-copyright-notice
+python3-netifaces: initial-upload-closes-no-bugs
+python3-netifaces: no-manual-page
+python3-netifaces: zero-byte-file-in-doc-directory
